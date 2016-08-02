@@ -1,0 +1,3 @@
+[submodule "battleship"]
+	path = battleship
+	url = https://github.com/michaelrauh/battleship
